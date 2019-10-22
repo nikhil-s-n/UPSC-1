@@ -14,10 +14,10 @@
 
 <!-- Need Map of Pre-Historic Sites in India -->
 
-## Paleolithic (Old Stone Age)
+## Paleolithic - (Old Stone Age)
 
-## Mesolithic (Middle Stone Age)
+## Mesolithic - (Middle Stone Age)
 
-## Neolithic Age (New Stone Age)
+## Neolithic Age - (New Stone Age)
 
 ## Metal Age
