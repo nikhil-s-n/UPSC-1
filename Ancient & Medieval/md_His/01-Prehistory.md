@@ -1,6 +1,6 @@
 # Pre-History
 
-* PreHistoy - Has no written records.
+* PreHistory - Has no written records.
     * Lots of Archaeological Records.
 * **Division** of PreHistoric period in India
     1. **Palaeolithic** (Old Stone Age)
@@ -15,6 +15,22 @@
 <!-- Need Map of Pre-Historic Sites in India -->
 
 ## Paleolithic - (Old Stone Age)
+* Generally located near water sources.
+* Usually rock shelters (scattered across subcontinent). Rarely lived in huts made of leaves.
+* Hunters & Gatherers
+
+#### Tools
+* Stone Tools, Hand Sized
+* Flaked off large pebbles for hunting animals.
+
+#### Famous Sites
+* Soan Valley & Potwar Plateau (NW India)
+* Siwalik Hills (North India)
+* Bhimpetka (MP)
+* Adamgarh Hill (Narmada Valley)
+* Kurnool (AP)
+* Attirampakkam (Chennai)
+
 
 ## Mesolithic - (Middle Stone Age)
 
