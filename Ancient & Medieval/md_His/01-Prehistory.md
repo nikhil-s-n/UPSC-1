@@ -14,7 +14,7 @@
 
 <!-- Need Map of Pre-Historic Sites in India -->
 
-## Paleolithic - (Old Stone Age) - Before 10,000 BC
+## Paleolithic (Old Stone Age) - Before 10,000 BC
 * Generally located near water sources.
 * Usually rock shelters (scattered across subcontinent). Rarely lived in huts made of leaves.
 * Hunters & Gatherers
@@ -35,7 +35,7 @@
 * Kurnool (AP)
 * Attirampakkam (Chennai)
 
-## Mesolithic - (Middle Stone Age) - (10,000 - 6,000 BC)
+## Mesolithic (Middle Stone Age) - (10,000 - 6,000 BC)
 * Transitional phase between Paleolithic & Neolithic Ages.
 * Shift from big animal hunting to small animal hunting and fishing.
     * Use of Bow & Arrow Began
@@ -53,7 +53,7 @@
 #### Tools
 * **Microliths** - Tiny stone artifacts, not more than 5 cm.
 
-## Neolithic Age - (New Stone Age) - (6000 - 4000 BC)
+## Neolithic Age (New Stone Age) - (6000 - 4000 BC)
 * Remarkable progress, some call it revolution.
 * Characteristic **Features**
     1. Parctice of Agriculture
