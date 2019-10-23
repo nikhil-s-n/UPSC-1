@@ -4,7 +4,7 @@
 
 ## Vedic Literature
 
-# Rig Vedic Period (Early Vedic Period) </br> (1500 - 1000 BC)
+# Rig Vedic Period - (Early Vedic Period) </br> (1500 - 1000 BC)
 
 ### Political Organisation
 
