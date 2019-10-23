@@ -1,8 +1,8 @@
 # Vedic Period
 
-## Original Homes of Aryans
+### Original Homes of Aryans
 
-## Vedic Literature
+### Vedic Literature
 
 ## Rig Vedic Period - (Early Vedic Period) </br> (1500 - 1000 BC)
 
